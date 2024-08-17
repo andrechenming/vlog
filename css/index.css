@@ -1,0 +1,849 @@
+@charset "utf-8";
+
+body {
+    font-family: Raleway, 微軟正黑體;
+    font-size: 16px;
+    display: block;
+    margin: 0px;
+
+}
+
+/*首页banner*/
+.banner{width:59%;
+     margin:0 auto;
+	padding-bottom: 1%;
+}
+
+
+/*首页banner*/
+
+
+a:link{
+text-decoration:none;
+color:#000000;
+}
+
+a:hover {
+text-decoration:none;
+color:#000000;
+}
+
+
+a:active {
+text-decoration:none;
+color:#fafafa;
+}
+
+.logo1{
+  display: block;
+  margin: 0 auto;
+	padding: 40px 5px 30px 0px ;
+}
+
+
+.a1{
+	padding: 0px 6px 0px 43px ;
+}
+
+.pages1{
+text-align:center;
+margin: 20px 0px 24px 0px;
+}
+
+
+
+.banner1{
+  display: block;
+  margin: 0 auto;
+  padding: 20px 0px 35px 0px ;
+}
+
+
+
+.banner2{
+  display: block;
+  margin: 0 auto;
+  padding: 0px 0px 40px 0px ;
+}
+
+
+.wire{
+	
+	left: 20%;
+    position: absolute;
+    top: 2%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+.wire2{
+	
+	right: 21%;
+    position: absolute;
+    top: 2%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+
+
+
+.wire01{
+	
+	left: 20%;
+    position: absolute;
+    top: 13%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+.wire02{
+	
+	right: 21%;
+    position: absolute;
+    top:13%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+
+.wire03{
+	
+	left: 20%;
+    position: absolute;
+    top: 265%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+.wire04{
+	
+	right: 21%;
+    position: absolute;
+    top: 265%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+.wire05{
+	
+	right: 21%;
+    position: absolute;
+        top: 311%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+.wire06{
+	
+	left: 20%;
+    position: absolute;
+       top: 311%;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+
+.wire07{
+	
+	
+    
+    border-bottom-width:2px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+	}
+
+
+
+.bp{
+text-align:center;
+font-size: 30px;
+   
+	color: #383838;
+	padding-bottom: 1%;
+	
+}
+
+.sp{
+text-align:center;
+font-style: normal;
+text-transform: uppercase;
+	color: #5e5c5c;
+	padding-bottom: 2%;
+}
+
+
+
+
+.cube01{
+	
+	position: relative;
+	    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+	
+
+}
+
+
+
+.cube41{
+    padding: 0px 0px 45px 0px;
+	/*position: relative;*/
+	    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    margin: 0;
+}
+
+
+
+
+.cube02{
+	padding-left: 0px;
+    padding-right: 0px;
+	    padding-bottom: 2%;
+	max-width: 60%;
+	   
+	    margin-left: auto;
+    margin-right: auto;
+}
+
+.cube03{
+	position: relative;
+	clear: left;
+	float: left;
+    width: 100%;
+	    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+	
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 1px;
+	    padding-bottom: 30px;
+	  
+
+}
+
+
+
+
+
+
+
+
+
+.cube011{
+	    padding-left: 15px;
+    padding-right: 15px;
+	    clear: left;
+	    float: left;
+  
+
+	 
+}
+
+.cube012{
+	 padding-left: 15px;
+    padding-right: 15px;
+	float: left;
+ 
+	 
+}
+
+.cube013{
+	padding-left: 15px;
+    padding-right: 15px;
+	    float: left;
+   
+}
+	
+
+.cube03index{
+	position: relative;
+	clear: left;
+	float: left;
+    width: 100%;
+	    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+	
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 1px;
+	    padding-bottom: 30px;
+	  
+
+}
+
+.cube021{
+	    padding-left: 15px;
+    padding-right: 50px;
+	    clear: left;
+	    float: left;
+    -webkit-filter:drop-shadow(5px 5px 5px #333);
+
+	 
+}
+
+.cube022{
+	
+	 padding-left:15px;
+    padding-right: 50px;
+	float: left;
+  -webkit-filter:drop-shadow(5px 5px 5px #333);
+	 
+}
+
+.cube023{
+	margin-top: -1%;
+	 -webkit-filter:drop-shadow(5px 5px 5px #333);
+    
+   
+}
+
+
+.cube031{
+	 padding-left: 4%;
+    padding-right: 12%;
+    clear: left;
+    float: left;
+       padding-bottom: 5%;
+
+	 
+}
+
+.cube032{
+	
+	    padding-left: 6%;
+    padding-right: 10%;
+    float: left;
+    padding-bottom: 5%;
+ 
+	 
+}
+
+.cube033{
+	 padding-left:  10%;
+	padding-right: 6%;
+    float: left;
+       padding-bottom: 5%;
+}
+
+.cube034{
+	 padding-left: 12%;
+    padding-right: 4%;
+   float: left;
+       padding-bottom: 5%;
+}
+
+
+
+.cube035{
+	 padding-left: 5%;
+    padding-right: 12%;
+    clear: left;
+    float: left;
+       padding-bottom: 5%;
+
+	 
+}
+
+.cube036{
+	
+	    padding-left: 8%;
+    padding-right: 10%;
+    float: left;
+    padding-bottom: 5%;
+ 
+	 
+}
+
+.cube037{
+	 padding-left:  10%;
+	padding-right: 8%;
+    float: left;
+       padding-bottom: 5%;
+}
+
+.cube038{
+	 padding-left: 11%;
+    padding-right: 5%;
+   float: left;
+       padding-bottom: 5%;
+}
+
+.cube04{
+	position: relative;
+	clear: left;
+	float: left;
+    width: 108%;
+	    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+	
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 1px;
+	    padding-bottom: 30px;
+	  
+
+}
+
+
+
+
+.cube041 {
+    padding-left: 1%;
+    padding-right: 1%;
+    clear: left;
+    float: left;
+}
+
+.cube042 {
+    padding-left: 1%;
+    padding-right: 1%;
+	 float: left;
+   
+}
+
+
+
+.more1{
+	text-align: center;
+
+}
+
+.botton0{
+clear: both;
+    padding: 20% 0% 4% 0%;
+    position: relative;
+	width:100%;  
+    left:0;
+    right:0;
+    margin: auto;
+
+}
+
+
+.botton{
+	
+	position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    overflow: hidden;
+	
+}
+
+
+.botton01{
+padding-left: 0px;
+padding-right: 0px;
+ margin-top: 4%;
+margin-left: 21%;
+    margin-right: auto;
+
+}
+
+
+.bottonlogo{
+position: relative;
+	clear: left;
+	float: left;
+    width: 35%;
+	    margin-left: auto;
+    margin-right: auto;
+    min-height: 1px;
+
+}
+
+.bottonlogo1{
+	clear: both;
+padding-left: 11px;
+    padding-right: 15px;
+	    text-align: left;
+	padding-bottom: 30px;
+	margin-left: 0px;
+	
+	}
+
+.bottonicon{
+	clear: both;
+	font-size: 16px;
+}
+
+.bottonicon01{
+	font-size: 20px;
+	    padding-left: 11px;
+    padding-right: 15px;
+	    text-align: left;
+	padding-bottom: 30px;
+}
+
+
+
+
+.bottonp{
+
+	margin-top: 0px;
+    margin-bottom: 30%;
+    font-size: inherit;
+}
+
+
+.bottonp01{
+	
+color: #ffffff;
+	line-height: 1.5;
+	margin-top: 0px;
+    margin-bottom: 20px;
+   
+	text-align: left;
+	
+	}
+
+
+
+
+
+.newsbanner{
+	margin: 20px 0px 0px 0px;
+    padding: 80px 0px 50px 0px;
+
+	position: relative;
+}
+
+
+.newsbanner1{
+	    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    overflow: hidden;
+
+}
+
+
+.newsbanner2{
+	    background-repeat: no-repeat;
+    background-position: center center;
+    height: 160%;
+    
+
+}
+
+
+.newsnav{
+
+   padding-bottom: 30px;
+	    padding: 60px 0px 30px;
+    position: relative;
+	}
+
+
+
+.newspb{
+	font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+	 color: #343434;
+	    padding-bottom: 4%;
+    padding-top: 3%;
+	}
+
+.newsp{
+	font-family: 'Raleway','微軟正黑體';
+	    color: #777;
+	font-size: 16px;
+	padding-bottom: 9%;
+	line-height: 1.7;
+	
+	}
+
+
+
+.bottompb{
+	font-family: 'Raleway','微軟正黑體';
+	  
+	padding-bottom: 2%;
+	line-height: 1.7;
+}
+
+
+.bottomsp{
+	font-family: 'Raleway','微軟正黑體';
+	padding-bottom: 9%;
+	line-height: 1.7;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.about1{
+
+	     width: 100%;
+         position: relative;
+         left:0;
+         right:0;
+         margin: auto;
+         z-index: 99;
+	
+	}
+
+
+.about02{
+
+	    padding-left: 21%;
+	
+	}
+
+
+.aboutpb02{
+	padding-left: 21%;
+	
+}
+
+
+.aboutjpg{ 
+	width:60%;
+	 display: inline-block;
+        vertical-align: middle;
+	    padding-left: 21%;
+    padding-top: 7%;
+    padding-bottom: 8%;
+	
+}
+
+
+.aboutjpg3{ 
+	 
+    position: relative;
+    left:0;
+    right:0;
+    margin: auto;
+    z-index: 99;
+
+}
+.aboutjpg3 li{ 
+	display: inline-block; 
+}
+.aboutjpg3 li img{
+	max-width:100%;
+	
+}
+.aboutjpg3 li:nth-child(1){
+	margin-left: 20%;
+    padding: 5%;
+}
+.aboutjpg3 li:nth-child(2){
+	width:30%;
+}
+
+
+
+
+
+.aboutp{ 
+	    margin-left: 59%;
+        margin-top: -34%;
+}
+
+.aboutp2{ 
+	   
+	
+	 display: inline-block;
+        vertical-align: middle;
+	    padding-left: 21%;
+    padding-top: 7%;
+    padding-bottom: 8%;
+}
+
+
+
+
+.aboutpb{
+	font-size: 28px;
+	 color: #343434;
+	
+	}
+
+.aboutpp{
+	font-family: 'Raleway','微軟正黑體';
+	    color: #777;
+	font-size: 16px;
+	
+	}
+
+
+.aboutblank{
+ padding-top: 7%;
+}
+
+
+.contact1{
+ width: 100%;
+         position: relative;
+         left:0;
+         right:0;
+         margin: auto;
+}
+
+
+.contact2{
+ width: 100%;
+         position: relative;
+        
+	    text-align: center;
+	 padding: 68px 0px 50px 1px;
+	
+}
+
+
+.contact3{
+width: 100%;
+    position: relative;
+    text-align: center;
+    padding: 2px 0px 0px 0px;
+	
+}
+
+.contact01{
+
+     margin-right:0%;
+	 padding: 77px 4px 77px 1px;
+       
+	
+}
+
+.contact02 {
+    margin-right: 0%;
+    padding: 17px 2px 15px 0px;
+}
+
+
+
+.introduction1{
+	
+	  width: 100%;
+         position: relative;
+         left:0;
+         right:0;
+         margin: auto;
+         z-index: 99;
+	}
+
+
+
+.introduction2{
+
+	    padding-left: 21%;
+	
+	}
+
+
+
+.works1{
+	 width: 100%;
+         position: relative;
+         left:0;
+         right:0;
+         margin: auto;
+         z-index: 99;
+		}
+
+.works01{
+width: 78%;
+    padding-left: 21%;
+    padding-top: 4%;
+		}
+
+
+
+
+.worksbanner{
+     width: 78%;
+     padding-top: 5%;
+		}
+
+.workspd{
+
+    text-align: center;
+	font-family: 'Raleway','微軟正黑體';
+	    color: #777;
+	font-size: 16px;
+	background: #efefef;
+	
+		}
+
+
+.worksbotton00{
+	 padding-top:4%;
+
+}
+
+
+
+
+.wei-grid {
+  
+    width: 350px;
+    height: 263px;
+    overflow: hidden;
+}
+
+.wei-image1 {
+    transition: transform 1s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.wei-grid:hover .wei-image1, .wei-grid:focus .wei-image1 {
+    transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    -webkit-transform: scale(1.4);
+}
+
+
+
